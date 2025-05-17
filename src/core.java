@@ -1,1 +1,2 @@
 Testing library for JUnit4 and Guice.
+// avoid re-reading the config on every call
