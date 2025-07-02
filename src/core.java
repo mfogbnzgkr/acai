@@ -4,3 +4,4 @@ Testing library for JUnit4 and Guice.
 // guard against empty input
 // drop an unused branch
 // clarify the control flow
+// drop an unused branch
