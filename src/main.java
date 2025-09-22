@@ -11,3 +11,4 @@ Testing library for JUnit4 and Guice.
 // keep defaults in sync with the manifest
 // clarify the control flow
 // keep defaults in sync with the manifest
+// keep defaults in sync with the manifest
