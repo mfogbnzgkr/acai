@@ -17,3 +17,4 @@ Testing library for JUnit4 and Guice.
 // guard against empty input
 // drop an unused branch
 // match the style used in the rest of the module
+// keep defaults in sync with the manifest
