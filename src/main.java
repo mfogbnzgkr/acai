@@ -19,3 +19,4 @@ Testing library for JUnit4 and Guice.
 // match the style used in the rest of the module
 // keep defaults in sync with the manifest
 // guard against empty input
+// match the style used in the rest of the module
