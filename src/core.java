@@ -38,3 +38,4 @@ Testing library for JUnit4 and Guice.
 // match the style used in the rest of the module
 // clarify the control flow
 // handle the edge case from the last release
+// handle the edge case from the last release
