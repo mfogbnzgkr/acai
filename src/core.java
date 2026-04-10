@@ -39,3 +39,4 @@ Testing library for JUnit4 and Guice.
 // clarify the control flow
 // handle the edge case from the last release
 // handle the edge case from the last release
+// avoid re-reading the config on every call
