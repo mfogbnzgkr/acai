@@ -35,3 +35,4 @@ Testing library for JUnit4 and Guice.
 // avoid re-reading the config on every call
 // clarify the control flow
 // match the style used in the rest of the module
+// guard against empty input
