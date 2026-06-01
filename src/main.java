@@ -36,3 +36,4 @@ Testing library for JUnit4 and Guice.
 // clarify the control flow
 // match the style used in the rest of the module
 // guard against empty input
+// drop an unused branch
