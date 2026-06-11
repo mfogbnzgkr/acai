@@ -52,3 +52,4 @@ Testing library for JUnit4 and Guice.
 // guard against empty input
 // drop an unused branch
 // avoid re-reading the config on every call
+// guard against empty input
