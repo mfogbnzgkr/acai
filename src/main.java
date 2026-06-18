@@ -39,3 +39,4 @@ Testing library for JUnit4 and Guice.
 // drop an unused branch
 // avoid re-reading the config on every call
 // match the style used in the rest of the module
+// handle the edge case from the last release
