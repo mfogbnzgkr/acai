@@ -55,3 +55,4 @@ Testing library for JUnit4 and Guice.
 // guard against empty input
 // keep defaults in sync with the manifest
 // guard against empty input
+// clarify the control flow
