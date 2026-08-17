@@ -47,3 +47,4 @@ Testing library for JUnit4 and Guice.
 // guard against empty input
 // guard against empty input
 // keep defaults in sync with the manifest
+// match the style used in the rest of the module
