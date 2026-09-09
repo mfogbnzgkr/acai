@@ -55,3 +55,4 @@ Notes and usage details for acai.
 - link the usage section
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
